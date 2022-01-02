@@ -1,0 +1,75 @@
+body{
+    background-color:#F1F2F4 ;
+    
+}
+.primery-color{
+    color: #1E4355;
+}
+.wh-color{
+    color: #E6F4F5 !important;
+}
+.primery-bg{
+    background: #1E4355 !important;
+    color: #E6F4F5 !important;
+}
+.navbar{
+    border-radius: 0 0 20px 20px;
+}
+.color-gray{
+    color: #C2C2C2 !important;
+}
+
+.search{
+    position: relative;
+}
+.search input{
+    background-color: #2B5468;
+    border: none;
+    border-radius: 50px;
+}
+.search input::placeholder{
+    color: #E6F4F5 !important;
+}
+.search-i{
+    position: absolute;
+    top: 10px;
+    right: 25px;
+}
+.nav-link{
+    color: #E6F4F5 !important;
+}
+.profile{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.breadcrumb{
+    background: transparent !important;
+}
+.profile-2{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.card{
+    border-radius: 10px;
+}
+.ad-search{
+    border-radius: 50px !important;
+}
+.ad-search .search-i ,.ad-search input::placeholder{
+    color: #C2C2C2 !important;
+    fill: #c2c2c2;
+}
+.job-link{
+    color: #7B94A0;
+}
+.job{
+    border-bottom: 0.5px solid #c2c2c2 !important;
+}
+.rate {
+    color: #7A7A7A;
+    border: 1px solid #c2c2c2 !important;
+    border-radius: 50%;
+    padding: 5px;
+}
